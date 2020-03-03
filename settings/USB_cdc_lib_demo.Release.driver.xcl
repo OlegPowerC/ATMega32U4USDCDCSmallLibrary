@@ -1,0 +1,15 @@
+"--cpu=usb1287" 
+
+"--enhanced_core" 
+
+"-p" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\avr\Config\iousb1287.ddf" 
+
+"--eeprom_size" 
+
+"4096" 
+
+
+
+
